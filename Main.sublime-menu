@@ -1,0 +1,17 @@
+[
+  {
+    "id": "view",
+    "children": [
+      {
+        "caption": "Show Symbol",
+        "id": "view-symbols",
+        "children": [
+          {
+            "command": "show_all_characters",
+            "caption": "Toggle showing all characters"
+          }
+        ]
+      }
+    ]
+  }
+]
